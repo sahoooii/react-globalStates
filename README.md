@@ -1,2 +1,2 @@
-# react-globalStates
+# react-atomicDesign
 Created with CodeSandbox
